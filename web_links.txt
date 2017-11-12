@@ -1,0 +1,13 @@
+# uml_class_diagrams
+
+https://vaughnvernon.co/?page_id=31
+https://courses.cs.washington.edu/courses/cse403/11sp/lectures/lecture08-uml1.pdf
+https://www.smartdraw.com/class-diagram/
+http://www.cc.ntut.edu.tw/~wkchen/courses/gposd/gposd981/IntroUML.pdf
+
+******** Detailed tutorial on UML designing **********************
+1. https://www.tutorialspoint.com/uml/index.htm
+
+***** Worth reading below articles for UML designing ******
+1. https://cppcodetips.wordpress.com/2013/12/23/uml-class-diagram-explained-with-c-samples/
+2. https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-aggregation-vs-composition/
